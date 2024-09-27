@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #1A1A1A;
+}
+
+.bodyContainer {
+  display: flex;
+  justify-content: center;
+}

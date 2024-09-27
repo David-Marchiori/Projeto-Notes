@@ -1,0 +1,21 @@
+.Nota {
+    background-color: #5a5a5a;
+    border: none;
+    border-radius: 8px;
+    color: #fff;
+}
+
+.Checked, .Unchecked {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+.Checked p{
+    text-decoration: line-through;
+}
+
+.Unchecked p{
+    text-decoration: none;
+}

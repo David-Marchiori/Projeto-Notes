@@ -1,0 +1,18 @@
+.newNota {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 60%;
+    margin: auto;
+}
+
+.NotasCampoSpace{
+    width: 40%;
+}
+
+.NotasCampo {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+} 
